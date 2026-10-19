@@ -1,0 +1,8 @@
+# Add this inside the existing "flutter:" section of your pubspec.yaml
+# (keep the indentation exactly like this, 2 spaces per level):
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/posters/
